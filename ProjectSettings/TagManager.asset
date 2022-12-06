@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - target
+  - ground
+  - symbol_O
+  - stone
+  - pyramid
+  - agent
+  - ball
+  - iWall
+  - pit
+  - symbol_O_Goal
+  - symbol_X
+  - wall
+  - symbol_X_Goal
+  - goal
+  - block
+  - walkableSurface
+  - purpleAgent
+  - purpleGoal
+  - blueAgent
+  - blueGoal
+  - switchOff
+  - badFood
+  - food
+  - Base
+  - Car
+  - Guard
+  - RestartPoint
+  - pickbutton
+  - Obstaculo
+  - CarModel
+  - FungusSecondMode
+  - Moto
+  - Guardia
+  - Cinemachine
+  - CameraGuard
+  - Joystick
+  - Pausa
+  - Restart
+  - Stats
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ui
+  - Water
+  - UI
+  - Ground
+  - car
+  - sphere
+  - PostProcss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
